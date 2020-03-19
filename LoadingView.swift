@@ -52,4 +52,4 @@ extension UIColor {
 
 
 //Use :- Show = LoadingView.shared.showProgressView()
-  //       Hide = LoadinView.shared.hideProgressView
+  //     Hide = LoadinView.shared.hideProgressView()
